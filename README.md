@@ -2,8 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDing77&count_bg=%23E1FF06&title_bg=%2300FFEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohoyou77)](https://solved.ac/hohoyou77)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohoyou77)](https://solved.ac/hohoyou77)
 <img src="http://mazandi.herokuapp.com/api?handle=hohoyou77&theme=dark"/>
 
 #### Skill
