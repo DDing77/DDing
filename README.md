@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-F46D01.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-764ABC.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-F7DF1E.svg?&style=for-the-badge&logo=Linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ##### Current Learning
