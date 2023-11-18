@@ -13,17 +13,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) -->
 <!-- ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white) -->
 <!-- ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white) <br/> -->
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-F46D01.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-764ABC.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F7DF1E.svg?&style=for-the-badge&logo=Linux&logoColor=black)
-![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-F46D01.svg?&style=plastic&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-764ABC.svg?&style=plastic&logo=Kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F7DF1E.svg?&style=plastic&logo=Linux&logoColor=black)
+![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=plastic&logo=CentOS&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)
 
 ##### Current Learning
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![AmazonAWS](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white")
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=plastic&logo=SpringBoot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/Amazon-232F3E?style=plastic&logo=amazonAWS&logoColor=white")
 <!-- ![ElasticStack](https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white) -->
 
 </div>
