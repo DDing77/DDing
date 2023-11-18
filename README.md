@@ -21,8 +21,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ##### Current Learning
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=white")
 <!-- ![ElasticStack](https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white) -->
 
 </div>
