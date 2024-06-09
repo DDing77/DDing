@@ -1,8 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DDing&fontSize=80)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DDing&fontSize=80) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDing77&count_bg=%23E1FF06&title_bg=%2300FFEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/>
 ![hohoyou77's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hohoyou77)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohoyou77)](https://solved.ac/hohoyou77) -->
 <a href="https://opgc.me/#/users/DDing77" target="_blank"><img src="https://api.opgc.me/githubs/users/DDing77/tag/?theme=basic" /></a>
@@ -25,5 +24,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon-232F3E?style=plastic&logo=amazonAWS&logoColor=white")
 <!-- ![ElasticStack](https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDing77&count_bg=%23E1FF06&title_bg=%2300FFEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/>
 
 </div>
