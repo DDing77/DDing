@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DDing&fontSize=80) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=DDing&fontSize=80)
 
 ![hohoyou77's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hohoyou77)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hohoyou77)](https://solved.ac/hohoyou77) -->
