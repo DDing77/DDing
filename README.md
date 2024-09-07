@@ -24,6 +24,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic&logo=Docker&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon-232F3E?style=plastic&logo=amazonAWS&logoColor=white")
 <!-- ![ElasticStack](https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white) -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDing77&count_bg=%23E1FF06&title_bg=%2300FFEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/>
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDDing77&count_bg=%23E1FF06&title_bg=%2300FFEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <br/> -->
 
 </div>
